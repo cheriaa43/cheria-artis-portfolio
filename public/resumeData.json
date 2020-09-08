@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Cheria Artis",
+    "occupation": "ReactJS Developer && Python/Django Developer",
+    "description": "Full Stack Developer by Day, Photographer by night",
+    "image": "CheriaArtis.jpeg",
+    "bio": "My name is Cheria, I'm a Full Stack ReactJS Developer. Currently I am attending Kenzie Academy and working as a life coach.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or to interview me.",
+    "email": "cheriaa34@gmail.com",
+    "phone": "+1 260 458 7455",
+    "address": {
+      "street": "2818 Northgate Blvd Apt 5",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "zip": "46835"
+    },
+   "website": "http://www.timbakerdev.com",
+   "resumedownload": "https://docs.google.com/document/d/1SFTh5GrTUEQlsvSTkmbAfcRDFhYLIUeB5eneRiWoajI/edit?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/cheria.austin/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cheria-artis-539ba0196/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/cheriaa43",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Kenzie Academy",
+        "degree": "Full Stack Web Developer",
+        "graduated": "October 2020",
+        "description": "Front End Certificate Completed. Working on Back End."
+      }
+    ],
+    "work": [
+      {
+        "company": "Kenzie Academy",
+        "title": "Student Coach/Tutor",
+        "years": "March 2020 - July 2020",
+        "description": "Mentor other students in newer cohorts than my own to assist them in completing projects."
+      },
+      {
+        "company": "Cablecraft Motion Controls",
+        "title": "CNC Machinist",
+        "years": "March 2017 - Present",
+        "description": "Mill and lathe setup, maintain setup, and operation. Mentor other workers new to the area."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "Python/Django",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ghost Post App",
+        "category": "Provides a site to anonymously 'boast' or 'roast' anything the user wants.(Django, Poetry)",
+        "image": "ghostpostpic.png",
+        "url": "https://github.com/cheriaa43/ghostpost"
+      },
+      {
+        "title": "Bug Tracker App",
+        "category": "Bug Ticket Tracker App (Django, Poetry)",
+        "image": "bugtrackerpic.png",
+        "url": "https://github.com/cheriaa43/bugtracker"
+      },
+      {
+        "title": "Cowsay App",
+        "category": "A ASCII art cow character appears to say the phrase entered by the user (Django)",
+        "image": "cowsaypic.png",
+        "url": "https://github.com/cheriaa43/django_cowsay"
+      },
+      {
+        "title": "Todo App Part 3",
+        "category": "Todo List App with tabs and counter (ReactJS)",
+        "image": "todoapppic.jpeg",
+        "url": "https://github.com/cheriaa43/react-todo-app-part-3"
+      },
+      {
+        "title": "React Photo Wall",
+        "category": "Photo wall connected to an API with sticky header built with ReactJS",
+        "image": "reactphotowall.jpeg",
+        "url": "https://github.com/cheriaa43/react-photo-wall"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Helping others is an EXTREMELY important and impactful skill that all companies would want. Plus you are topping your class with your hard work and determination. Keep that up and opportunities are in the abundant for you.",
+        "user": "Travis (Kenzie Academy - Student Sucess Advisor"
+      },
+      {
+        "text": "Tala and I both sent Chris messages about how great you are with how you explain things and how you help us really understand concepts. We just wanted to make sure they knew how much you contribute.",
+        "user": "Kam Williamson - SE Student at Kenzie Academy"
+      }
+    ]
+  }
+}
