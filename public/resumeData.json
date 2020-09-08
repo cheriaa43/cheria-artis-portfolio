@@ -95,7 +95,7 @@
       {
         "title": "Bug Tracker App",
         "category": "Bug Ticket Tracker App (Django, Poetry)",
-        "image": "bugtrackerpic.png",
+        "image": "bugtrackerpic.jpg",
         "url": "https://github.com/cheriaa43/bugtracker"
       },
       {
@@ -107,13 +107,13 @@
       {
         "title": "Todo App Part 3",
         "category": "Todo List App with tabs and counter (ReactJS)",
-        "image": "todoapppic.jpeg",
+        "image": "todoapppic.png",
         "url": "https://github.com/cheriaa43/react-todo-app-part-3"
       },
       {
         "title": "React Photo Wall",
         "category": "Photo wall connected to an API with sticky header built with ReactJS",
-        "image": "reactphotowall.jpeg",
+        "image": "reactphotowall.png",
         "url": "https://github.com/cheriaa43/react-photo-wall"
       }
     ]
