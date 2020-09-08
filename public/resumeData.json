@@ -3,7 +3,7 @@
     "name": "Cheria Artis",
     "occupation": "ReactJS Developer && Python/Django Developer",
     "description": "Full Stack Developer by Day, Photographer by night",
-    "image": "CheriaArtis.jpeg",
+    "image": "CheriaArtis.jpg",
     "bio": "My name is Cheria, I'm a Full Stack ReactJS Developer. Currently I am attending Kenzie Academy and working as a life coach.",
     "contactmessage": "Get in touch with me to receive further details, get coached or to interview me.",
     "email": "cheriaa34@gmail.com",
@@ -14,7 +14,6 @@
       "state": "IN",
       "zip": "46835"
     },
-   "website": "http://www.timbakerdev.com",
    "resumedownload": "https://docs.google.com/document/d/1SFTh5GrTUEQlsvSTkmbAfcRDFhYLIUeB5eneRiWoajI/edit?usp=sharing",
     "social": [
       {
@@ -35,7 +34,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Full Stack Developer experienced in JavaScript, ReactJS, Python, Django, NodeJS, HTML and CSS",
     "education": [
       {
         "school": "Kenzie Academy",
@@ -123,7 +122,7 @@
     "testimonials": [
       {
         "text": "Helping others is an EXTREMELY important and impactful skill that all companies would want. Plus you are topping your class with your hard work and determination. Keep that up and opportunities are in the abundant for you.",
-        "user": "Travis (Kenzie Academy - Student Sucess Advisor"
+        "user": "Travis - Kenzie Academy - Student Sucess Advisor"
       },
       {
         "text": "Tala and I both sent Chris messages about how great you are with how you explain things and how you help us really understand concepts. We just wanted to make sure they knew how much you contribute.",

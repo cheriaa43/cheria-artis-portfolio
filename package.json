@@ -44,5 +44,6 @@
   "bugs": {
     "url": "https://github.com/cheriaa43/cheria-artis-portfolio/issues"
   },
-  "homepage": "https://github.com/cheriaa43/cheria-artis-portfolio#readme"
+  "homepage": "https://github.com/cheriaa43/cheria-artis-portfolio",
+  "devDependencies": {}
 }
